@@ -2,3 +2,10 @@ body {
   padding: 5em;
   text-align: center;
 }
+
+.box {
+  background: aquamarine;
+  padding: 2em;
+  width: 50%;
+  margin: 0 auto 10em;
+}
