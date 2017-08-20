@@ -21,10 +21,10 @@ body {
   color: white;
   transition: all 250ms ease-in;
 
-  outline: 3px solid steelblue;
+  outline: 3px solid white;
 }
 
 .button:hover {
-  outline: 3px solid steelblue;
-  outline-offset: 5px;
+  outline: 3px solid white;
+  outline-offset: -8px;
 }
